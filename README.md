@@ -1,2 +1,2 @@
 # MBTI_Avatars
-Vector (.svg) representations of MBTI personality types
+This repository contains vector (.svg) representations of MBTI personality types from the site 16personalities.com.
