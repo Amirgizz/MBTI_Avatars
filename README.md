@@ -1,4 +1,4 @@
-# MBTI_Avatars
+# MBTI Avatars
 This repository contains vector (SVG) and high-quality raster (PNG) renderings of MBTI personality types from 16personalities.com.
 
 The SVG files were cleaned of unnecessary data and compressed to minimize their size.
